@@ -31,7 +31,7 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 3. Don't worry if you still don't fall in the above categories , we've got you covered - you can use our forgotPasswordPage:D
 
-<img src="https://user-images.githubusercontent.com/83269481/147365116-3d686796-0280-4a98-a0d4-5a552bdb34b9.png" width="650" height="500"></img>
+<img src="https://user-images.githubusercontent.com/83269481/147365116-3d686796-0280-4a98-a0d4-5a552bdb34b9.png" width="650" height="500" align="center"></img>
 
 4. After you've logged-in successfully , tand-tanda you'll be in our dashboard which will help you achieve your fitness goals!
 
