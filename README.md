@@ -20,3 +20,5 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 6. Trainer Recommendation
 7. Detailed view of workout plan(Finished,unfinished)
 8. Personal record of user's workout
+# User Interface
+![image](https://user-images.githubusercontent.com/83269481/147364928-28388d16-56fe-4cd1-9222-2a95d7576fd5.png)
