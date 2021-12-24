@@ -47,8 +47,15 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 ![image](https://user-images.githubusercontent.com/83269481/147365562-81eea104-e01b-4ff5-a66c-8d2191be7c78.png)
 
+5.2 Workout Statistic :
 
+![image](https://user-images.githubusercontent.com/83269481/147366077-d057c772-0e65-4268-943f-dabe3ce5b127.png)
 
+5.3 Workout Plan :
+
+![image](https://user-images.githubusercontent.com/83269481/147366111-bcf2d34b-7944-430d-ab3c-88606947d9df.png)
+
+5.4 
 
 
 
