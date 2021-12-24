@@ -23,7 +23,7 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 # User Interface
 1. The user will have to login , so below is the login page :
 
-<img src="![image](https://user-images.githubusercontent.com/83269481/147364928-28388d16-56fe-4cd1-9222-2a95d7576fd5.png)" width="400" height="500"></img>
+<img src="https://user-images.githubusercontent.com/83269481/147364928-28388d16-56fe-4cd1-9222-2a95d7576fd5.png" width="800" height="500"></img>
 
 2. If user doesn't have an account then he can make one through sign-up page :
 
