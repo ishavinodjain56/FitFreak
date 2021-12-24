@@ -23,15 +23,15 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 # User Interface
 1. The user will have to login , so below is the login page :
 
-<img src="https://user-images.githubusercontent.com/83269481/147364928-28388d16-56fe-4cd1-9222-2a95d7576fd5.png" width="800" height="500"></img>
+![image](https://user-images.githubusercontent.com/83269481/147364928-28388d16-56fe-4cd1-9222-2a95d7576fd5.png)
 
 2. If user doesn't have an account then he can make one through sign-up page :
 
-<img src="https://user-images.githubusercontent.com/83269481/147365033-93823506-b46c-4f43-bb78-4340a0fcd3e2.png" width="800" height="500"></img>
+![image](https://user-images.githubusercontent.com/83269481/147365033-93823506-b46c-4f43-bb78-4340a0fcd3e2.png)
 
 3. Don't worry if you still don't fall in the above categories , we've got you covered - you can use our forgotPasswordPage:D
 
-<center><img src="https://user-images.githubusercontent.com/83269481/147365116-3d686796-0280-4a98-a0d4-5a552bdb34b9.png" width="650" height="500"></center>
+![image](https://user-images.githubusercontent.com/83269481/147365116-3d686796-0280-4a98-a0d4-5a552bdb34b9.png)
 
 4. After you've logged-in successfully , tand-tanda you'll be in our dashboard which will help you achieve your fitness goals!
 
@@ -90,7 +90,7 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 5.5 Distance Map (various Statistics page) :
 
-![image](https://user-images.githubusercontent.com/83269481/147367451-68bcb2f2-3aca-41ef-8654-40fb28b0d7e7.png)
+![image](https://user-images.githubusercontent.com/83269481/147367870-ff370cbe-17c6-4dde-9bfd-a4f812ddb32d.png)
 
 ![image](https://user-images.githubusercontent.com/83269481/147367477-c5825057-0a21-4b3c-86be-dfe4b8f76d8e.png)
 
