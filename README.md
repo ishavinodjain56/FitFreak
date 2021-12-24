@@ -61,7 +61,7 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 ![image](https://user-images.githubusercontent.com/83269481/147366357-c524e63a-e194-49da-bbf7-f4bbf04bcac5.png)
 
 
-5.4 Now if you want to edit any of these plan or you want to create a new  workout plan then you can click on edit and you will be directed to a new page where you can carry-out your planning activities and navigate through various month, week and day of any year  .
+5.4 Now if you want to edit any of these plan or you want to create a new  workout plan then you can click on edit and you will be directed to a new page where you can carry-out your planning activities and navigate through various month, week and day of any year  
 
 ![image](https://user-images.githubusercontent.com/83269481/147366527-c5c60de0-d12e-491c-b540-1bee0790f4c6.png)
 
@@ -74,10 +74,14 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 ![image](https://user-images.githubusercontent.com/83269481/147366959-0c132f58-fdda-4500-8288-3976ef842aaf.png)
 
 
-5.4.1 you can start planning your workouts by clicking on the desired date and a form will appear 
+5.4.1 you can start planning your workouts by clicking on the desired date and a form will appear in which you will have to enter some data about your goals and then ten-taden your goal/event/plan will be displayed exactly on the date that you've clicked 
 
+![image](https://user-images.githubusercontent.com/83269481/147367071-26b2aab2-7e20-464d-9f32-c4a6029c7f3f.png)
 
-![image](https://user-images.githubusercontent.com/83269481/147367035-dcabcde0-0650-4ffa-bda2-c07e6213bd76.png)
+![image](https://user-images.githubusercontent.com/83269481/147367109-b09e672e-2186-4556-b1ae-160fad8674db.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147367124-9fdbb692-0345-4da2-a80b-eebe7df76805.png)
+
 
 
 
