@@ -35,6 +35,17 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 4. After you've logged-in successfully , tand-tanda you'll be in our dashboard which will help you achieve your fitness goals!
 
+5. After which you can enjoy the following features :
+
+5.1 Our Home Page which is also the default page of our dashboard :
+
+![image](https://user-images.githubusercontent.com/83269481/147365458-f29ea5e4-f1db-4ca6-a3b2-69f91ce3ff09.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147365500-0bc2fa72-1a5d-45d1-a4ec-dfa7f7cecd58.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147365517-13916e21-8ae2-4d88-9bb3-1bd254689535.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147365562-81eea104-e01b-4ff5-a66c-8d2191be7c78.png)
 
 
 
