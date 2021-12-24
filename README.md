@@ -74,8 +74,10 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 ![image](https://user-images.githubusercontent.com/83269481/147366959-0c132f58-fdda-4500-8288-3976ef842aaf.png)
 
 
-5.4.1 you can start planning by clicking on the 
+5.4.1 you can start planning your workouts by clicking on the desired date and a form will appear 
 
+
+![image](https://user-images.githubusercontent.com/83269481/147367035-dcabcde0-0650-4ffa-bda2-c07e6213bd76.png)
 
 
 
