@@ -112,7 +112,6 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 So , this was our entire project! Hoping you'll love it <3
 
 #Team Members
-
 1. Bhumi Panchal - 2021006
 2. Isha Jain - 2021013
 
