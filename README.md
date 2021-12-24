@@ -82,6 +82,14 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 ![image](https://user-images.githubusercontent.com/83269481/147367124-9fdbb692-0345-4da2-a80b-eebe7df76805.png)
 
+5.4.2 Now if your mind changes because somebody else out there is acheiving more hahahaha , just kidding! maybe due to any XYZ reasons you want to edit the goal then you can edit it by clicking on the goal displayed on the date , a form will appear and you can make the desired changes and then save/delete it!
+
+![image](https://user-images.githubusercontent.com/83269481/147367354-cdd3be5a-0af2-462a-a7d6-e4997559874f.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147367372-59defc72-87e7-44ef-8e70-bbcb10eab9dd.png)
+
+
+
 
 
 
