@@ -88,6 +88,36 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 ![image](https://user-images.githubusercontent.com/83269481/147367372-59defc72-87e7-44ef-8e70-bbcb10eab9dd.png)
 
+5.5 Distance Map (various Statistics page) :
+
+![image](https://user-images.githubusercontent.com/83269481/147367451-68bcb2f2-3aca-41ef-8654-40fb28b0d7e7.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147367477-c5825057-0a21-4b3c-86be-dfe4b8f76d8e.png)
+
+5.6 Diet Food Menu
+
+![image](https://user-images.githubusercontent.com/83269481/147367512-f77bfa4d-5859-415b-b682-aee156f764d9.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147367531-0fbb3e97-e653-4a05-8db9-ed8452cb3000.png)
+
+5.7 Personal Records (History) :
+
+![image](https://user-images.githubusercontent.com/83269481/147367561-be4cf624-28c4-47b7-9665-d0849a7eb893.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147367583-76aef92c-ee6f-43dd-afd1-153349c9390b.png)
+
+![image](https://user-images.githubusercontent.com/83269481/147367601-7e6b0b8f-3d7b-4d35-8f18-b068c87f7e89.png)
+
+
+So , this was our entire project! Hoping you'll love it <3
+
+#Team Members
+
+1. Bhumi Panchal - 2021006
+2. Isha Jain - 2021013
+
+
+
 
 
 
