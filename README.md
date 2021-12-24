@@ -53,7 +53,7 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 5.3 Workout Plan :
 
-![image](https://user-images.githubusercontent.com/83269481/147366111-bcf2d34b-7944-430d-ab3c-88606947d9df.png)
+![image](https://user-images.githubusercontent.com/83269481/147366216-2ff4f7c0-77e1-4e4e-b3da-5d6bffb8bac2.png)
 
 5.4 
 
