@@ -22,9 +22,15 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 8. Personal record of user's workout
 # User Interface
 1. The user will have to login , so below is the login page :
+
 ![image](https://user-images.githubusercontent.com/83269481/147364928-28388d16-56fe-4cd1-9222-2a95d7576fd5.png)
+
 2. If user doesn't have an account then he can make one through sign-up page :
+
 ![image](https://user-images.githubusercontent.com/83269481/147365033-93823506-b46c-4f43-bb78-4340a0fcd3e2.png)
-3. Don't worry if you still don't fall in the above categories , we've got you covered - you can use our forgotPasswordPage :D
+
+3. Don't worry if you still don't fall in the above categories , we've got you covered - you can use our forgotPasswordPage:D
+
 ![image](https://user-images.githubusercontent.com/83269481/147365116-3d686796-0280-4a98-a0d4-5a552bdb34b9.png)
+
 
