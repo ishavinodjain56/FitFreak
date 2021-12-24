@@ -11,3 +11,12 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 9. Run nodemon app.js on the backend directory
 10. Run npm start on the frontend directory
 11. The app should start running on your browser on the address http://localhost:3000/
+# Functionalities
+1. Login/Registration of the user
+2. User can plan workout
+3. User can add recipes in their workout plan in order to count calorie intake
+4. Statistic representation of the same is provided
+5. Weekly progress
+6. Trainer Recommendation
+7. Detailed view of workout plan(Finished,unfinished)
+8. Personal record of user's workout
