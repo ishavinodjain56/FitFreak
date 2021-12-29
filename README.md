@@ -28,7 +28,8 @@ A platform that uses data-based progress monitoring to help you reach your fitne
 
 2. If user doesn't have an account then he can make one through sign-up page :
 
-<img src="https://user-images.githubusercontent.com/83269481/147365033-93823506-b46c-4f43-bb78-4340a0fcd3e2.png" width="800" height="500"></img>
+![image](https://user-images.githubusercontent.com/83269481/147365033-93823506-b46c-4f43-bb78-4340a0fcd3e2.png)
+
 ![image](https://user-images.githubusercontent.com/83269481/147365033-93823506-b46c-4f43-bb78-4340a0fcd3e2.png)
 
 3. Don't worry if you still don't fall in the above categories , we've got you covered - you can use our forgotPasswordPage:D
